@@ -2,7 +2,7 @@
 
 #Spring Boot, MySQL, JPA, Hibernate Rest API 
 
-Spring Boot Crud app for First Mutual
+Spring Boot Crud app for First Mutual Assesment
 
 ## Requirements
 
